@@ -1,5 +1,5 @@
-# JSONSEARCH
-### Live search and sort multiple JSON data files 
+# JSON Search and Sort
+### Live search and sort one or more JSON data files 
 
 This script, built entirely using pure JavaScript without any third-party libraries or tools, performs a price comparison by sourcing data from multiple local JSON files. The JSON files contain information on store products and their pricing, each following the same key/value formatting structure, which allows for seamless data merging.
 
